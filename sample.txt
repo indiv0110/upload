@@ -5,3 +5,5 @@ sample
 3rd sentence, but commimted by branch "working"
 
 3rd sentence by master
+
+branch sentence
