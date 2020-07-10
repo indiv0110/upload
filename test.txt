@@ -2,7 +2,9 @@
 
 2 local
 I added this sentence from local
-3
+
+3 another local
+I added this sentence as second commit from local
 
 4
 
